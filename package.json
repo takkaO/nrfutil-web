@@ -12,7 +12,8 @@
     "test": "vitest run",
     "test:watch": "vitest",
     "prepublishOnly": "pnpm run build",
-    "dev": "vite examples"
+    "dev": "vite examples",
+    "build:demo": "vite build examples --outDir ../demo --emptyOutDir --base ./"
   },
   "keywords": [
     "nrf52",

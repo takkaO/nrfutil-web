@@ -3,6 +3,8 @@
 WebSerial を使った nRF52 デバイス向け DFU（Device Firmware Update）ライブラリです。
 ブラウザから直接ファームウェアを書き込むことができます。
 
+**[🔗 Live Demo](https://takkaO.github.io/nrfutil-web/)**
+
 ## 特徴
 
 - ブラウザの [Web Serial API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Serial_API) を使用
